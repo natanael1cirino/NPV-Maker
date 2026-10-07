@@ -1,0 +1,242 @@
+{
+  "NPVM-APPEAR-001": {
+    "severity": "WARNING",
+    "stage": "appearance_conversion"
+  },
+  "NPVM-APPEAR-002": {
+    "severity": "FATAL",
+    "stage": "appearance_conversion"
+  },
+  "NPVM-APPEAR-003": {
+    "severity": "INFO",
+    "stage": "appearance_conversion"
+  },
+  "NPVM-APPEAR-004": {
+    "severity": "INFO",
+    "stage": "appearance_conversion"
+  },
+  "NPVM-APPEAR-005": {
+    "severity": "INFO",
+    "stage": "appearance_conversion"
+  },
+  "NPVM-APPEAR-006": {
+    "severity": "INFO",
+    "stage": "appearance_conversion"
+  },
+  "NPVM-BAKE-001": {
+    "severity": "FATAL",
+    "stage": "morph_bake"
+  },
+  "NPVM-BAKE-002": {
+    "severity": "WARNING",
+    "stage": "morph_bake"
+  },
+  "NPVM-BAKE-003": {
+    "severity": "INFO",
+    "stage": "morph_bake"
+  },
+  "NPVM-BODY-001": {
+    "severity": "INFO",
+    "stage": "appearance_conversion"
+  },
+  "NPVM-BODY-002": {
+    "severity": "WARNING",
+    "stage": "appearance_conversion"
+  },
+  "NPVM-BODY-003": {
+    "severity": "WARNING",
+    "stage": "appearance_conversion"
+  },
+  "NPVM-CONVERT-001": {
+    "severity": "WARNING",
+    "stage": "appearance_conversion"
+  },
+  "NPVM-CONVERT-002": {
+    "severity": "FATAL",
+    "stage": "appearance_conversion"
+  },
+  "NPVM-DEPENDENCY-001": {
+    "severity": "FATAL",
+    "stage": "import"
+  },
+  "NPVM-DEPENDENCY-002": {
+    "severity": "INFO",
+    "stage": "pack"
+  },
+  "NPVM-HEAD-001": {
+    "severity": "INFO",
+    "stage": "appearance_conversion"
+  },
+  "NPVM-HEAD-002": {
+    "severity": "INFO",
+    "stage": "appearance_conversion"
+  },
+  "NPVM-IMPORT-001": {
+    "severity": "FATAL",
+    "stage": "import"
+  },
+  "NPVM-IMPORT-002": {
+    "severity": "FATAL",
+    "stage": "import"
+  },
+  "NPVM-IMPORT-003": {
+    "severity": "ERROR",
+    "stage": "import"
+  },
+  "NPVM-INTERNAL-001": {
+    "severity": "FATAL",
+    "stage": "conversion"
+  },
+  "NPVM-PACK-001": {
+    "severity": "FATAL",
+    "stage": "pack"
+  },
+  "NPVM-PATCH-001": {
+    "severity": "WARNING",
+    "stage": "appearance_conversion"
+  },
+  "NPVM-PROJECT-001": {
+    "severity": "FATAL",
+    "stage": "project_validation"
+  },
+  "NPVM-PROJECT-002": {
+    "severity": "WARNING",
+    "stage": "project_validation"
+  },
+  "NPVM-REMOVE-001": {
+    "severity": "INFO",
+    "stage": "removal"
+  },
+  "NPVM-REMOVE-002": {
+    "severity": "WARNING",
+    "stage": "removal"
+  },
+  "NPVM-REMOVE-003": {
+    "severity": "WARNING",
+    "stage": "removal"
+  },
+  "NPVM-REMOVE-004": {
+    "severity": "ERROR",
+    "stage": "removal"
+  },
+  "NPVM-RESOURCE-001": {
+    "severity": "WARNING",
+    "stage": "appearance_conversion"
+  },
+  "NPVM-RESOURCE-002": {
+    "severity": "FATAL",
+    "stage": "appearance_conversion"
+  },
+  "NPVM-RESOURCE-003": {
+    "severity": "INFO",
+    "stage": "appearance_conversion"
+  },
+  "NPVM-RUNTIME-001": {
+    "severity": "WARNING",
+    "stage": "appearance_conversion"
+  },
+  "NPVM-SETUP-001": {
+    "severity": "FATAL",
+    "stage": "setup"
+  },
+  "NPVM-SETUP-002": {
+    "severity": "ERROR",
+    "stage": "setup"
+  },
+  "NPVM-SETUP-003": {
+    "severity": "ERROR",
+    "stage": "setup"
+  },
+  "NPVM-SETUP-004": {
+    "severity": "ERROR",
+    "stage": "setup"
+  },
+  "NPVM-SETUP-005": {
+    "severity": "ERROR",
+    "stage": "setup"
+  },
+  "NPVM-SETUP-006": {
+    "severity": "ERROR",
+    "stage": "setup"
+  },
+  "NPVM-SETUP-007": {
+    "severity": "ERROR",
+    "stage": "setup"
+  },
+  "NPVM-SETUP-008": {
+    "severity": "ERROR",
+    "stage": "setup"
+  },
+  "NPVM-SETUP-009": {
+    "severity": "WARNING",
+    "stage": "setup"
+  },
+  "NPVM-SETUP-010": {
+    "severity": "INFO",
+    "stage": "setup"
+  },
+  "NPVM-STATUS-001": {
+    "severity": "WARNING",
+    "stage": "status"
+  },
+  "NPVM-TEMPLATE-001": {
+    "severity": "INFO",
+    "stage": "appearance_conversion"
+  },
+  "NPVM-TEMPLATE-002": {
+    "severity": "WARNING",
+    "stage": "appearance_conversion"
+  },
+  "NPVM-WK-APP-001": {
+    "severity": "WARNING",
+    "stage": "appearance_conversion"
+  },
+  "NPVM-WK-APP-002": {
+    "severity": "FATAL",
+    "stage": "appearance_conversion"
+  },
+  "NPVM-WK-CLI-001": {
+    "severity": "FATAL",
+    "stage": "conversion"
+  },
+  "NPVM-WK-RES-001": {
+    "severity": "INFO",
+    "stage": "appearance_conversion"
+  },
+  "NPVM-PACKAGE-001": {
+    "severity": "ERROR",
+    "stage": "export"
+  },
+  "NPVM-PACKAGE-002": {
+    "severity": "INFO",
+    "stage": "export"
+  },
+  "NPVM-PACKAGE-003": {
+    "severity": "ERROR",
+    "stage": "package_install"
+  },
+  "NPVM-PACKAGE-004": {
+    "severity": "WARNING",
+    "stage": "package_install"
+  },
+  "NPVM-PACKAGE-005": {
+    "severity": "ERROR",
+    "stage": "package_install"
+  },
+  "NPVM-PACKAGE-006": {
+    "severity": "ERROR",
+    "stage": "package_install"
+  },
+  "NPVM-PACKAGE-007": {
+    "severity": "ERROR",
+    "stage": "export"
+  },
+  "NPVM-PHOTO-001": {
+    "severity": "WARNING",
+    "stage": "pack"
+  },
+  "NPVM-BRIDGE-001": {
+    "severity": "WARNING",
+    "stage": "bridge"
+  }
+}
